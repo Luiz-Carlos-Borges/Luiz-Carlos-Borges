@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Luiz Carlos Borges
 
-<!--
-**Luiz-Carlos-Borges/Luiz-Carlos-Borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC** e apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas ferramentas e colocar meus conhecimentos em prática por meio de projetos.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estudei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante minha formação e em projetos pessoais, tive contato com:
+
+* HTML5
+* CSS3
+* JavaScript
+* Node.js
+* Express.js
+* Arquitetura MVC
+* Knex.js
+* ORM
+* SQL e Banco de Dados Relacionais
+* Git e GitHub
+
+## 💻 Projetos
+
+Aqui no meu GitHub você encontrará projetos desenvolvidos durante meus estudos, incluindo aplicações web e sistemas voltados para o aprendizado de desenvolvimento back-end, banco de dados e boas práticas de programação.
+
+## 📚 Atualmente
+
+Estou aprofundando meus conhecimentos em desenvolvimento back-end, APIs REST, bancos de dados e desenvolvimento de aplicações web, buscando oportunidades para aplicar e expandir minhas habilidades na área de tecnologia.
+
+## 📫 Contato
+
+* LinkedIn: **https://www.linkedin.com/in/SEU-USUARIO**
