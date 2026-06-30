@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Luiz Carlos Borges
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC** e apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas ferramentas e colocar meus conhecimentos em prática por meio de projetos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **ETEC** e apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas ferramentas e colocar meus conhecimentos em prática por meio de projetos.
 
 ## 🚀 Tecnologias que estudei
 
