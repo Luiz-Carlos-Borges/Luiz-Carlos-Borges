@@ -27,4 +27,4 @@ Estou aprofundando meus conhecimentos em desenvolvimento back-end, APIs REST, ba
 
 ## 📫 Contato
 
-* LinkedIn: **https://www.linkedin.com/in/SEU-USUARIO**
+**https://www.linkedin.com/in/luiz-carlos-borges-d-amico/**
